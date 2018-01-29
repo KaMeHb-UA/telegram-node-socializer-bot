@@ -1,0 +1,1 @@
+﻿var bot = new (require('node-telegram-bot-api'))(settings.token, {polling: true});

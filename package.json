@@ -1,0 +1,7 @@
+{
+    "name": "telegram-node-socializer-bot",
+    "version": "0.0.0",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.30.0"
+    }
+}

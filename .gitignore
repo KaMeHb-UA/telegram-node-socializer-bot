@@ -1,0 +1,10 @@
+# Логи
+*.log
+*.err
+
+#Модули нода
+node_modules
+package-lock.json
+
+#Тесты
+test
